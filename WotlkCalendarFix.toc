@@ -1,0 +1,6 @@
+## Interface: 30400
+## Version: 1.5.0
+## Title: WotlkCalendarFix
+## Notes: Temporary fix for WoW Calendar
+
+WotlkCalendarFix.lua
